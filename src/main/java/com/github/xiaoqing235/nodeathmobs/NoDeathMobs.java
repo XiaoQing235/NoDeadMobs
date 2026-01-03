@@ -1,7 +1,6 @@
 package com.github.xiaoqing235.nodeathmobs;
 
 import net.fabricmc.api.ModInitializer;
-import net.fabricmc.loader.api.FabricLoader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
