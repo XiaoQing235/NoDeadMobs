@@ -1,4 +1,4 @@
-package com.github.xiaoqing235.nodeathmobs.mixin;
+package com.github.xiaoqing235.nodeadmobs.mixin;
 
 import net.minecraft.client.render.GameRenderer;
 import net.minecraft.entity.Entity;

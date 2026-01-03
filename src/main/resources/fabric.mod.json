@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "nodeathmobs",
+  "id": "nodeadmobs",
   "version": "${version}",
-  "name": "NoDeathMobs",
+  "name": "NoDeadMobs",
   "description": "A simple Minecraft mod that prevents you from rendering and targeting dead mobs.",
   "authors": ["XiaoQing235"],
   "contact": {},
@@ -11,12 +11,12 @@
   "environment": "client",
   "entrypoints": {
     "main": [
-      "com.github.xiaoqing235.nodeathmobs.NoDeathMobs"
+      "com.github.xiaoqing235.nodeadmobs.NoDeadMobs"
     ]
   },
   "mixins": [
     {
-      "config": "nodeathmobs.mixins.json",
+      "config": "nodeadmobs.mixins.json",
       "environment": "client"
     }
   ],
